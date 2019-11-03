@@ -11,14 +11,14 @@
           <i class="has-text-white" id="subTitle">[ Software Engineer ]</i>
           <p class="has-text-white" id="wordDefinition">
             I'm an optimistic person driven by my passion to give my best in everything I do.
-            I live by my ethics and principals and would like to climb up the ladder with my strong determination and smart work.
+            I live by my ethics and principles and would like to climb up the ladder with my strong determination and smart work.
             I am very honest in all my doings and believe in putting up sincere efforts to succeed in life.
             My basic ideology of life is to give back to the society through love, innovation and Knowledge as it gave me the platform to Live my life to the fullest.
             "Let there be light" is my mantra which I will enchant all my life as
             it has given me the strength to overcome all the downs in my life and no
             matter what I would stand up strong in the face of every challenge coming my way and would conquer it.
           </p>
-          <a href="https://github.com/sachinsmc" target="_blank"><img hspace="20" src="../assets/Github-512.png" blank></a>
+          <a href="https://github.com/sachinsmc" target="_blank"><img hspace="20" src="../assets/Github-512.2320cf4a.png" blank></a>
           <a href="https://twitter.com/smcsachin" target="_blank"><img hspace="20" src="../assets/twitter@2x.png"></a>
           <a href="https://www.linkedin.com/in/smcsachin/" target="_blank"><img hspace="20" src="../assets/linkedin@2x.png"></a>
         </div>
