@@ -23,25 +23,25 @@
 
 <script>
 // @ is an alias to /src
-import ContentBlock from "@/components/ContentBlock.vue";
-import backgroundImage from "../assets/sachin_at_work.jpg";
+import ContentBlock from '@/components/ContentBlock.vue';
+import backgroundImage from '../assets/sachin_at_work.jpg';
 
 export default {
-  name: "home",
+  name: 'home',
   components: {
-    ContentBlock
+    ContentBlock,
   },
   data: function data() {
     return {
       showContent: false,
-      backgroundImage
+      backgroundImage,
     };
   },
   created() {
     setTimeout(() => {
       this.showContent = true;
     }, 100);
-  }
+  },
 };
 </script>
 
