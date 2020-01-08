@@ -8,23 +8,20 @@
 </template>
 
 <script>
-import NavBar from "@/components/NavBar.vue";
 
 export default {
-  name: "app",
-  components: {
-    NavBar
-  },
+  name: 'app',
+  components: {},
   data: function data() {
     return {
-      showNav: false
+      showNav: false,
     };
   },
   created() {
     setTimeout(() => {
       this.showNav = true;
     }, 500);
-  }
+  },
 };
 </script>
 
